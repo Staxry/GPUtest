@@ -134,11 +134,6 @@ build_exe.bat
 main.py                 точка входа
 run.bat                 запуск без консоли
 setup.bat               проверка Python и драйверов
-build_exe.bat           сборка CoreForge.exe + ярлык
-create_shortcut.bat     ярлык на рабочий стол
-assets/
-  coreforge.png         знак приложения
-  coreforge.ico         иконка exe / панели задач / ярлыка
 coreforge/
   engine.py             оркестрация блоков
   ui.py                 интерфейс
